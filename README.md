@@ -6,6 +6,8 @@ A centralized repository for coding resources, articles, tutorials, etc. curated
 
 * [How to Contribute](https://github.com/HRDEN03/coding-resources#how-to-contribute)
 * [Markdown](https://github.com/HRDEN03/coding-resources#markdown)
+* [Git](https://github.com/HRDEN03/coding-resources#git)
+    - [Workflows](https://github.com/HRDEN03/coding-resources#workflows)
 
 ## How to Contribute
 
@@ -23,3 +25,9 @@ A centralized repository for coding resources, articles, tutorials, etc. curated
 * [Markdown Cheat Sheet - Quick Guide](https://www.markdownguide.org/cheat-sheet/)
 * [Markdown Cheat Sheet - More In-Depth](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#inline-html)
 * [GitHub Flavored Markdown Cheat Sheet - PDF](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+## Git
+
+### Workflows
+
+* [Git Feature Branch Workflow - Atlassian Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
