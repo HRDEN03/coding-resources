@@ -2,6 +2,11 @@
 
 A centralized repository for coding resources, articles, tutorials, etc. curated by the students of HRDEN03.
 
+## Table of Contents
+
+* [How to Contribute](https://github.com/HRDEN03/coding-resources#how-to-contribute)
+* [Markdown](https://github.com/HRDEN03/coding-resources#markdown)
+
 ## How to Contribute
 
 1. Make a feature branch
@@ -13,4 +18,8 @@ A centralized repository for coding resources, articles, tutorials, etc. curated
 4. Make a pull request
     - Tag one of the owners of this repo in your pull request to review your changes and approve the PR
 
-## Table of Contents
+## Markdown
+
+* [Markdown Cheat Sheet - Quick Guide](https://www.markdownguide.org/cheat-sheet/)
+* [Markdown Cheat Sheet - More In-Depth](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#inline-html)
+* [GitHub Flavored Markdown Cheat Sheet - PDF](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
