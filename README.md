@@ -28,6 +28,10 @@ A centralized repository for coding resources, articles, tutorials, etc. curated
 
 ## Git
 
+## System Design
+
+* [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+
 ### Workflows
 
 * [Git Feature Branch Workflow - Atlassian Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
