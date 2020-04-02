@@ -39,4 +39,4 @@ A centralized repository for coding resources, articles, tutorials, etc. curated
 
 ## HTML & CSS
 
-* [Vanilla JS HTML & CSS Cheatsheet] (https://htmldom.dev/)
+* [Vanilla JS HTML & CSS Cheatsheet](https://htmldom.dev/)
